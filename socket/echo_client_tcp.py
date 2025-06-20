@@ -4,13 +4,14 @@ import socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 #Connect the socket to the port where the server is listening
-server_address = ('10.1.3.47',999)
+server_address = ('10.1.3.47',8080)
 print('connecting to {} port {}'.format(*server_address))
+sock.connect(server_address)
 try:
     #send data
     message = b'It is very long massage but will only be transmitted in chunks of 16 at a time'
     print('sending {!r}'.format(message))
-    socket.sendall(message)
+    sock.sendall(message)
 
     #Look for the response
     amount_received = 0
