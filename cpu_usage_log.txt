@@ -1,0 +1,10 @@
+Line 1 : 2025/06/20 18H 34M 47S 	 cpu usage(%) : 4.55% 
+Line 2 : 2025/06/20 18H 34M 49S 	 cpu usage(%) : 4.0% 
+Line 3 : 2025/06/20 18H 34M 51S 	 cpu usage(%) : 1.5% 
+Line 4 : 2025/06/20 18H 34M 53S 	 cpu usage(%) : 3.5% 
+Line 5 : 2025/06/20 18H 34M 55S 	 cpu usage(%) : 2.0% 
+Line 6 : 2025/06/20 18H 34M 57S 	 cpu usage(%) : 2.0% 
+Line 7 : 2025/06/20 18H 34M 59S 	 cpu usage(%) : 5.4% 
+Line 8 : 2025/06/20 18H 35M 01S 	 cpu usage(%) : 2.0% 
+Line 9 : 2025/06/20 18H 35M 03S 	 cpu usage(%) : 2.5% 
+Line 10 : 2025/06/20 18H 35M 05S 	 cpu usage(%) : 2.5% 
